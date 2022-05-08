@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sumitadm21"><img alt="GitHub Org's stars" src="https://img.shields.io/badge/in-LinkedIn-blue"></a>
-  <a href="https://linkedin.com/in/sumitadm21"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sumit21adm/AWS-Beginners-Guide?color=green"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sumit21adm/AWS-Beginners-Guide?color=green">
 
 </p>
 
