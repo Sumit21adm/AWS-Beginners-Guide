@@ -28,6 +28,7 @@
   </div>
 
 <!-- TABLE OF CONTENTS -->
+<hr>
 <details>
 <summary><b>Table of Contents</b></summary>
 <ol>
@@ -47,3 +48,4 @@
     <li><a href="#usage">Usage</a></li>
 </ol>
 </details>
+<hr>
