@@ -49,3 +49,52 @@
 </ol>
 </details>
 <hr>
+<br>
+
+<!-- ABOUT THE PROJECT -->
+
+## What/ Why/ How <b>AWS</b>?
+
+............. ....... ........ ...... .... .......... ....... ..... ..... .
+
+Here's why:
+
+- Text Here
+- Text Here
+- Text Here
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+<b>Create</b> An Amazon Web Services(<b>AWS</b>) <b>Account</b> (Free or Paid).
+
+### Prerequisites
+
+- Make sure you are having good internet connection
+- Any of the preferred Browser installed (<a href="https://aws.amazon.com/premiumsupport/knowledge-center/browsers-management-console/">Check Preferred Browsers</a>)
+- For Better Understandings you can go through the official documentations.<a href="https://aws.amazon.com/getting-started/">AWS-GettingStarted</a>
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = "ENTER YOUR API";
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
