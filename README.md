@@ -4,6 +4,8 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sumit21adm/AWS-Beginners-Guide?color=green" height="30" width = "auto">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sumitadm21"><img alt="GitHub Org's stars" src="https://img.shields.io/badge/in-LinkedIn-blue" height="30" width = "auto"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Sumit21adm"><img alt="GitHub Org's stars" src="https://img.shields.io/badge/GitHub-follow-yellow" height="30" width = "auto"></a>
 
 </p>
 
