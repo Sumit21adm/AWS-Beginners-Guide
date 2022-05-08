@@ -19,7 +19,7 @@
   <h3 align="center">AWS-BEGINNERS-GUIDE</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome AWS Guide to jumpstart your Career projects with AWS!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
