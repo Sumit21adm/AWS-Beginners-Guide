@@ -1,7 +1,9 @@
 <div id="top"></div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sumitadm21"><img width="auto" height="auto" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"></a>
+  <a href="https://linkedin.com/in/sumitadm21"><img alt="GitHub Org's stars" src="https://img.shields.io/badge/in-LinkedIn-blue"></a>
+  <a href="https://linkedin.com/in/sumitadm21"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/sumit21adm/AWS-Beginners-Guide?color=green"></a>
+
 </p>
 
 <!-- PROJECT LOGO -->
