@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sumit21adm/AWS-Beginners-Guide">
-    <img src="https://github.com/Sumit21adm/AWS-Beginners-Guide/assets/awslogo-image.jpeg" alt="Logo" width="80" height="80">
+    <img src="assets/awslogo-image.jpeg" alt="Logo" width=auto height="100">
   </a>
 
   <h3 align="center">AWS-BEGINNERS-GUIDE</h3>
