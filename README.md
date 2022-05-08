@@ -84,7 +84,7 @@ Use the `README.md` to get started.
 - For Better Understandings you can go through the official documentations.<a href="https://aws.amazon.com/getting-started/">AWS-GettingStarted</a>
 <hr>
 
-### >> Creating A Virtual Syatem On AWS (i.e a Virtual Instance).
+### >> vvtccCreating A Virtual Syatem On AWS (i.e a Virtual Instance).
 
 &nbsp;&nbsp;&nbsp;&nbsp; _Below is the steps to create a Virtual Syatem i.e an Instance on AWS._
 
@@ -119,5 +119,25 @@ Use the `README.md` to get started.
 3.
 4. Go To Services Section
    - Select: Services >> Compute >> EC2
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Free To Use<br>
+Free To Learn<br>
+No Copyright @ 2022
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Sumit Kumar - [@sumitadm21](https://twitter.com/your_username) - sumit21adm@gmail.com
+
+AWS_DevOps Repo Link: [https://github.com/Sumit21adm/AWS-DevOps\_\_\_Sumitadm21](https://github.com/Sumit21adm/AWS-DevOps___Sumitadm21)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
