@@ -63,7 +63,7 @@ Here's why:
 - Text Here
 - Text Here
 
-Use the `BLANK_README.md` to get started.
+Use the `README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -71,7 +71,11 @@ Use the `BLANK_README.md` to get started.
 
 ## Getting Started
 
-<b>Create</b> An Amazon Web Services(<b>AWS</b>) <b>Account</b> (Free or Paid).
+<b>Create</b> An Amazon Web Services(<b>AWS</b>) <b>Account</b>.
+<br>
+[SignUp - New AWS Account](https://aws.amazon.com/?nc2=h_lg).
+<br>
+[SignUp - New AWS Free Tier Account](https://portal.aws.amazon.com/billing/signup#/start/email).
 
 ### Prerequisites
 
@@ -79,22 +83,40 @@ Use the `BLANK_README.md` to get started.
 - Any of the preferred Browser installed (<a href="https://aws.amazon.com/premiumsupport/knowledge-center/browsers-management-console/">Check Preferred Browsers</a>)
 - For Better Understandings you can go through the official documentations.<a href="https://aws.amazon.com/getting-started/">AWS-GettingStarted</a>
 
-### Installation
+### Creating A Virtual Syatem On AWS (i.e an INSTANCE).
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is the steps to create a Virtual Syatem i.e an Instance on AWS._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+1. Login To Your AWS Account at [AWS Management Console](https://us-west-2.console.aws.amazon.com/console/home?region=us-west-2)
+2. Select a Particular Region From Top Right Corner and Remember While Working It Must Be In Same Region Always.<br>for example:
+
+   | AWS Region Name           | Region         |
+   | ------------------------- | -------------- |
+   | US East (N. Virginia)     | us-east-1      |
+   | US East (Ohio)            | us-east-2      |
+   | US West (N. California)   | us-west-1      |
+   | US West (Oregon)          | us-west-2      |
+   | Africa (Cape Town)        | af-south-1     |
+   | Asia Pacific (Hong Kong)  | ap-east-1      |
+   | Asia Pacific (Jakarta)    | ap-southeast-3 |
+   | Asia Pacific (Mumbai)     | ap-south-1     |
+   | Asia Pacific (Osaka)      | ap-northeast-3 |
+   | Asia Pacific (Seoul)      | ap-northeast-2 |
+   | Asia Pacific (Singapore)  | ap-southeast-1 |
+   | Asia Pacific (Sydney)     | ap-southeast-2 |
+   | Asia Pacific (Tokyo)      | ap-northeast-1 |
+   | Canada (Central)          | ca-central-1   |
+   | Europe (Frankfurt)        | eu-central-1   |
+   | Europe (Ireland)          | eu-west-1      |
+   | Europe (London)           | eu-west-2      |
+   | Europe (Milan)            | eu-south-1     |
+   | Europe (Paris)            | eu-west-3      |
+   | Europe (Stockholm)        | eu-north-1     |
+   | Middle East (Bahrain)     | me-south-1     |
+   | South America (São Paulo) | sa-east-1      |
+
+3.
+4. Go To Services Section
+   - Select: Services >> Compute >> EC2
 
 <p align="right">(<a href="#top">back to top</a>)</p>
