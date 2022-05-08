@@ -82,8 +82,9 @@ Use the `README.md` to get started.
 - Make sure you are having good internet connection
 - Any of the preferred Browser installed (<a href="https://aws.amazon.com/premiumsupport/knowledge-center/browsers-management-console/">Check Preferred Browsers</a>)
 - For Better Understandings you can go through the official documentations.<a href="https://aws.amazon.com/getting-started/">AWS-GettingStarted</a>
+<hr>
 
-### Creating A Virtual Syatem On AWS (i.e an INSTANCE).
+### <b>Creating A Virtual Syatem On AWS (i.e an INSTANCE).</b>
 
 _Below is the steps to create a Virtual Syatem i.e an Instance on AWS._
 
